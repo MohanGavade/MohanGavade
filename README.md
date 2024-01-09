@@ -1,9 +1,6 @@
-### Hi there 👋
+### I'm excited to keep exploring and contributing to making robots smarter and more effective with their vision and data-driven solutions 👋
 
-<!--
-**MohanGavade/MohanGavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I'm excited to keep exploring and contributing to making robots smarter and more effective with their vision and data-driven solutions.
 
 ## 🔭 I’m currently working on Robotic Vision Projects
 ## 🌱 I’m currently learning Python, PyTorch, TensorFlow, NumPy, MatPlotlib, Pandas, Ros Linux, Image/Video Processing, Sensor Systems, Control theory
@@ -11,4 +8,4 @@
 ## 🤔 I’m looking for help with 
 ## 💬 Ask me about Machine Learning, Deep Learning
 ## 📫 How to reach me: https://www.linkedin.com/in/mohangavade18/
--->
+

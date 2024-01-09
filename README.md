@@ -9,7 +9,7 @@
 ## 💬 Ask me about Machine Learning, Deep Learning, Sensor Systems, Control theory, Communication Systems
 ## 📫 How to reach me: https://www.linkedin.com/in/mohangavade18/
 
-#### Projects
+### Projects
 	
 *Successfully implemented real-time object detection on a mobile robot by Fine Tuning and optimizing algorithms and models using PyTorch, OpenCV, GIT, NVIDIA Jetson nano kit, and Intel RealSense depth camera. (YOLO, Faster-RCNN_ResNet_50_fpn).
 
@@ -20,4 +20,17 @@
 *Developing Object Tracking algorithm through the implementation of YOLOv8 with transfer learning on a Raspberry Pi 4 for robotic navigation.
 	
 *Designed and developed an X-Y Pen Plotter using Esp-32 Spark-Fun microcontroller and Arduino IDE to draw a Nicholas House.
+
+### Skills
+
+*Programming: Python, Matlab/Simulink, ROS-Linux 
+
+*Tools: Git, Git Hub, Google Colab, Jupyter Notebook, Pycharm, VS code, Microsoft Office
+
+*Libraries: PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV
+
+*Languages: English-C1_level, German-B1_level, Hindi, Marathi 
+
+*Soft Skills: Teamwork, Analytical thinking, Communication, Adaptability, Problem-Solving
+
 

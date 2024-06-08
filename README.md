@@ -1,10 +1,10 @@
-# I'm excited to keep exploring and contributing to making robots smarter and more effective with their vision and data-driven solutions 👋
+# I'm excited to keep exploring and contributing to making cars and robots smarter and more effective with their vision and data-driven solutions 👋
 
 
 
-## 🔭 I’m currently working on Robotic Vision Projects
+## 🔭 I’m currently working on Robotic Vision/Perception Projects
 ## 🌱 I’m currently learning Python, PyTorch, TensorFlow, NumPy, MatPlotlib, Pandas, Ros Linux, Image/Video Processing 
-## 👯 I’m looking to collaborate on Mobile Robotics and Computer Vision Projects
+## 👯 I’m looking to collaborate on Mobile Robotics, autonomous driving and Computer Vision Projects
 ## 🤔 I’m looking for help with CNN architectures, Transfer Learning, Computer Vision Pipelines
 ## 💬 Ask me about Machine Learning, Deep Learning, Sensor Systems, Control theory, Communication Systems
 ## 📫 How to reach me: https://www.linkedin.com/in/mohangavade18/

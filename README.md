@@ -3,7 +3,7 @@
 
 
 ## 🔭 I’m currently working on Robotic Vision/Perception Projects
-## 🌱 I’m currently learning Python, PyTorch, TensorFlow, SciKit-Learn, Open-CV NumPy, MatPlotlib, Pandas, Ros Linux, Image/Video Processing 
+## 🌱 I’m currently learning Python, PyTorch, TensorFlow, SciKit-Learn, Open-CV, NumPy, MatPlotlib, Pandas, Ros Linux, Image/Video Processing 
 ## 👯 I’m looking to collaborate on Machine learning, Mobile Robotics, autonomous driving and Computer Vision Projects
 ## 🤔 I’m looking for help with CNN architectures, Transfer Learning, Computer Vision Pipelines
 ## 💬 Ask me about Machine Learning, Deep Learning, Sensor Systems, Control theory, Communication Systems

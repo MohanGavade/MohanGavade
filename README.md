@@ -110,7 +110,7 @@ Enhanced robotic perception using transfer learning with U-Net, YOLO, and Segmen
 ---
 
 ### 🖊️ X-Y Pen Plotter Robot
-Designed and developed an X-Y pen plotter using ESP32 microcontroller and Arduino IDE. The bot draws architectural shapes like the Nicholas House using precise stepper control.
+Designed and developed an X-Y pen plotter using ESP32 microcontroller and Arduino IDE. The bot draws architectural shapes like the Nicholas House.
 
 - **Languages & Tools:** C++, Arduino IDE, Embedded Systems
 

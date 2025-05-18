@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohan Bhujang Gavade</h1>
-<h3 align="center" style="color:cyan;">🚀 Data Scientist | Machine Learning Engineer | Autonomous Driving Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Autonomous Driving Enthusiast</h3>
 
 ---
 
 ### 📫 How to reach me:
 
 <p align="center">
-  <a href="mailto:mohangavade110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohangavade18/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MohanGavade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mohangavade110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohangavade18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohanGavade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center" style="background-color:black;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Making+Data-Informed+Decisions+in+Engineering+and+Business" alt="Typing SVG" />
 </p>
 
@@ -21,90 +21,107 @@
 
 ## 💼 Professional Journey
 
-I am currently pursuing a Master's in Mechatronics and Robotics at Hochschule Schmalkalden, Germany, where I focus on integrating artificial intelligence, data science, and control systems for smarter automation and perception systems.
+### 🎓 Education
 
-### 🎓 Academic Background
+- **Master of Engineering in Mechatronics & Robotics**  
+  Schmalkalden University of Applied Sciences, Germany (2022–Present)  
+  *Courses: AI, ML, Computer Vision, Autonomous Driving, Signal Processing, Sensor Systems*
 
-- **M.Eng. in Mechatronics & Robotics**  
-  Hochschule Schmalkalden – Germany | GPA: 1.5  
-  *AI, Machine Learning, Autonomous Driving, CV, Signal Processing*
+- **Erasmus Program - LAB University of Applied Sciences, Finland**  
+  Simulated truck tail lift system using MATLAB/Simulink in a cross-cultural engineering environment.
 
-- **Erasmus Exchange**  
-  LAB University of Applied Sciences – Finland  
-  *Simulated Truck Tail Lift System using MATLAB/Simulink*
+- **Bachelor of Engineering in Mechanical Engineering**  
+  Savitribai Phule Pune University, India (2016–2020)  
+  *Courses: Robotics, Mechatronics, Quality Engineering, Statistics, Python, MATLAB*
 
-- **B.E. in Mechanical Engineering**  
-  Savitribai Phule Pune University – India | GPA: 1.8  
-  *Mathematics, Statistics, Robotics, Quality Engineering*
+---
 
-### 👨‍💻 Professional Experience
+### 💼 Work Experience
 
-- **BMW (Working Student)**  
-  ▪️ Data pipelines (Python, SQL, AWS Glue/Athena/S3)  
-  ▪️ Dashboards with QuickSight for business analytics  
+- **BMW – Working Student (Apr 2025–Present)**  
+  ▪ Designed dashboards using AWS QuickSight & SQL  
+  ▪ Built scalable pipelines using Python, Glue, Athena  
+  ▪ Delivered strategic insights from raw data
 
-- **BMW (Master Thesis)**  
-  ▪️ Object detection with radar point clouds using PointNet & PointTransformer  
-  ▪️ Dataset creation from BMW test vehicles  
+- **BMW – Master Thesis (Oct 2024–Mar 2025)**  
+  ▪ Radar object detection with deep learning (PointNet, PointTransformer)  
+  ▪ Prepared radar datasets from test vehicles  
+  ▪ Researched radar point cloud architectures
 
-- **BMW (Radar Systems Intern)**  
-  ▪️ Radar data-cube simulation & visualization  
-  ▪️ Feature extraction with signal processing and AI  
-  ▪️ Radome defect detection using image & thermal data  
+- **BMW – Intern, Driver Assistance Systems (Apr–Sep 2024)**  
+  ▪ Built radar data-cube simulator & visualizer  
+  ▪ Applied ML to enhance radar feature extraction  
+  ▪ Implemented radome defect classification using image & thermal processing
 
-- **Perfect System (Automation Engineer)**  
-  ▪️ Vision systems, sensor integration, PLCs  
-  ▪️ Python scripting for R&D, project planning  
+- **Perfect System – Automation Engineer (Jun 2020–Mar 2022)**  
+  ▪ Developed PLC-based control with Python  
+  ▪ Integrated CV and sensor-based solutions
 
-- **Nilkamal Control (Research Intern)**  
-  ▪️ ISO documentation, KPI reporting  
-  ▪️ Data visualization using Excel and PowerPoint
+- **Nilkamal Controls – Research Intern (May–Jul 2018)**  
+  ▪ Maintained ISO-compliant documentation  
+  ▪ Built KPI dashboards and data reports
+
+---
+
+## 🚀 Featured Projects
+
+- **Radar Object Detection @ BMW:**  
+  Radar point cloud object detection using PointNet & PointTransformer.
+
+- **Mobile Robot Perception:**  
+  YOLO-based object detection on Jetson Nano with RealSense, ROS.
+
+- **Food Image Classifier:**  
+  Vision Transformer + CNNs (TinyVGG, EfficientNet), deployed with Gradio.
+
+- **Disaster Tweet Classifier (NLP):**  
+  LSTM/GRU/Conv1D models in TensorFlow for classifying crisis tweets.
+
+- **Heart Disease Prediction:**  
+  ML pipeline using Logistic Regression, KNN, Random Forest (Scikit-Learn).
+
+- **X-Y Pen Plotter:**  
+  ESP32 microcontroller + Arduino IDE to sketch vector drawings.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages  
-`Python` · `SQL` · `C++` · `MATLAB` · `ROS2` · `Linux`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📚 Libraries & Frameworks  
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas` · `Gradio` · `Flask` · `Hugging Face` · `Matplotlib`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FFB61F?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps  
-`AWS (S3, Glue, Athena, QuickSight)` · `Docker` · `Kubernetes` · `MLFlow` · `GitHub Actions` · `CI/CD`
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 ### 🧰 Tools & IDEs  
-`Jupyter` · `PyCharm` · `VS Code` · `Arduino IDE` · `Simulink` · `Google Colab` · `Confluence` · `Jira` · `Tableau`
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-## 🌐 Languages
-
-- 🇬🇧 English – C1 (IELTS Certified)  
-- 🇩🇪 German – B1 (Goethe Certified)  
-- 🇮🇳 Hindi & Marathi – Native
-
----
-
-## 🚀 Projects
-
-### 🛰 Radar Object Initialization @ BMW  
-Developed radar-based deep learning models using PointNet and PointTransformer. Built custom radar datasets from real driving environments.
-
-### 🤖 Mobile Robot Perception  
-Real-time object detection using YOLOv5/Faster-RCNN on NVIDIA Jetson Nano with Intel RealSense, ROS, and OpenCV integration.
-
-### 🍱 Food Image Classifier  
-Multi-class food classification using TinyVGG, EfficientNet_b0, and Vision Transformers. UI built with Gradio and Hugging Face.
-
-### 📉 Disaster Tweet NLP Classifier  
-TensorFlow pipeline using LSTM, GRU, Conv1D, and transfer learning for emergency classification on social media.
-
-### ❤️ Heart Disease ML Pipeline  
-Scikit-learn models (LogReg, RF, KNN) for medical diagnostics with performance evaluation and feature selection.
-
-### ✍️ X-Y Pen Plotter  
-Built an automated pen plotter using ESP32 and Arduino IDE. Programmed vector-to-motion conversion in C++ for precise architectural drawing.
+### 🌐 Languages  
+![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge)
+![German](https://img.shields.io/badge/German-B1-grey?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge)
+![Marathi](https://img.shields.io/badge/Marathi-Native-green?style=for-the-badge)
 
 ---
 

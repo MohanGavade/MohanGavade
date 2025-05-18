@@ -19,6 +19,35 @@
 
 ---
 
+- 🔭 I’m currently working on:
+  - Radar-based object detection at BMW using PointNet, PointTransformer
+  - Data engineering & visualization with AWS (Glue, Athena, QuickSight)
+
+- 🌱 I’m currently learning:
+  - MLOps (Docker, MLFlow, CI/CD)
+  - Sensor Fusion for Autonomous Driving
+  - Retrieval-Augmented Generation (RAG) & LLM APIs
+
+- 👯 I’m looking to collaborate on:
+  - Machine Learning, Data Science & Analytics Projects
+  - Robotics, Computer Vision, Autonomous Systems
+  - Deep Learning for Radar and LiDAR
+
+- 🤔 I’m looking for help with:
+  - Radar point cloud deep learning
+  - Real-time ML pipelines and scaling
+
+- 💬 Ask me about:
+  - Data Engineering & Analytics with Python, SQL, AWS
+  - Computer Vision (YOLO, U-Net, ViT)
+  - Sensor Fusion, ROS2, Perception Stacks
+  - NLP for Social Impact
+
+- ⚡ Fun fact:
+  I built a pen plotter robot that draws buildings 🏛️ using ESP32 and Arduino.
+
+---
+
 ## 💼 Professional Journey
 
 ### 🎓 Education
@@ -28,11 +57,10 @@
   *Courses: AI, ML, Computer Vision, Autonomous Driving, Signal Processing, Sensor Systems*
 
 - **Erasmus Program - LAB University of Applied Sciences, Finland**  
-  Simulated truck tail lift system using MATLAB/Simulink in a cross-cultural engineering environment.
+  Simulated truck tail lift system using MATLAB/Simulink.
 
 - **Bachelor of Engineering in Mechanical Engineering**  
-  Savitribai Phule Pune University, India (2016–2020)  
-  *Courses: Robotics, Mechatronics, Quality Engineering, Statistics, Python, MATLAB*
+  Savitribai Phule Pune University, India (2016–2020)
 
 ---
 
@@ -48,40 +76,29 @@
   ▪ Prepared radar datasets from test vehicles  
   ▪ Researched radar point cloud architectures
 
-- **BMW – Intern, Driver Assistance Systems (Apr–Sep 2024)**  
+- **BMW – Intern (Apr–Sep 2024)**  
   ▪ Built radar data-cube simulator & visualizer  
   ▪ Applied ML to enhance radar feature extraction  
-  ▪ Implemented radome defect classification using image & thermal processing
+  ▪ Implemented radome defect classification
 
-- **Perfect System – Automation Engineer (Jun 2020–Mar 2022)**  
-  ▪ Developed PLC-based control with Python  
-  ▪ Integrated CV and sensor-based solutions
+- **Perfect System – Automation Engineer (2020–2022)**  
+  ▪ Developed PLC-based automation systems  
+  ▪ Integrated computer vision and sensors
 
-- **Nilkamal Controls – Research Intern (May–Jul 2018)**  
-  ▪ Maintained ISO-compliant documentation  
-  ▪ Built KPI dashboards and data reports
+- **Nilkamal Controls – Research Intern (2018)**  
+  ▪ Maintained ISO documentation  
+  ▪ Built KPI dashboards
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- **Radar Object Detection @ BMW:**  
-  Radar point cloud object detection using PointNet & PointTransformer.
-
-- **Mobile Robot Perception:**  
-  YOLO-based object detection on Jetson Nano with RealSense, ROS.
-
-- **Food Image Classifier:**  
-  Vision Transformer + CNNs (TinyVGG, EfficientNet), deployed with Gradio.
-
-- **Disaster Tweet Classifier (NLP):**  
-  LSTM/GRU/Conv1D models in TensorFlow for classifying crisis tweets.
-
-- **Heart Disease Prediction:**  
-  ML pipeline using Logistic Regression, KNN, Random Forest (Scikit-Learn).
-
-- **X-Y Pen Plotter:**  
-  ESP32 microcontroller + Arduino IDE to sketch vector drawings.
+- **Radar Object Detection @ BMW** – PointNet, PointTransformer
+- **Robot Perception** – YOLO, ROS, Jetson Nano
+- **Food Image Classifier** – Vision Transformer, Gradio
+- **NLP Disaster Classifier** – LSTM/GRU/Conv1D
+- **Heart Disease Prediction** – Logistic, KNN, RF
+- **X-Y Pen Plotter** – ESP32 + Arduino IDE
 
 ---
 
@@ -102,7 +119,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FFB61F?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)

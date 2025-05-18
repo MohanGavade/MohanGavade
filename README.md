@@ -137,9 +137,8 @@ Built and evaluated a machine learning pipeline using Scikit-Learn. Tested Logis
 
 - 🐍 **[Complete Python Developer Course]**  
 - 🤖 **[AI, Machine Learning & Data Science Bootcamp]**  
-- 🔶 **[PyTorch for Deep Learning])**  
-- 🔥 **[TensorFlow for Deep Learning Bootcamp]**  
-- 🧪 **[TensorFlow Developer Certificate]**  
+- 🔥 **[PyTorch for Deep Learning])**  
+- 🧪 **[TensorFlow for Deep Learning Bootcamp]**  
 - 💾 **[Complete SQL & Databases Bootcamp]**
 
 

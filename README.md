@@ -50,14 +50,14 @@
 
 - **Master of Engineering in Mechatronics & Robotics**  
   Schmalkalden University of Applied Sciences, Germany (2022–Present)  
-  *Courses: AI, ML, Data Science, Computer Vision, Autonomous Driving, Signal Processing, Sensor Systems*
+  *Course Work: Artificial Intelligence, Machine Learning, Data Science, Computer Vision/Perception, Autonomous Driving, Project Management, Sensor Systems, Automation, Signal Processing, German Language*
 
 - **Erasmus Program - LAB University of Applied Sciences, Finland**  
-  Simulated truck tail lift system using MATLAB/Simulink.
+  *Simulated truck tail lift system using MATLAB/Simulink*
 
 - **Bachelor of Engineering in Mechanical Engineering**  
   Savitribai Phule Pune University, India (2016–2020)
-
+  *Mathematics, Statistics, Probability, Calculus, Physics, Quality Management, Robotics, Mechatronics, Industrial Engineering, Matlab, Python*
 ---
 
 ### 💼 Work Experience
@@ -136,7 +136,6 @@ Built and evaluated a machine learning pipeline using Scikit-Learn. Tested Logis
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📚 Libraries & Frameworks  

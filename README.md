@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Bhujang Gavade</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Autonomous Driving Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | Artificial Intelligence Engineer | Autonomous Driving Enthusiast</h3>
 
 ---
 

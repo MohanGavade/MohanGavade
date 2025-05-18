@@ -1,36 +1,84 @@
-# I'm excited to keep exploring and contributing to making cars and robots smarter and more effective with their vision and data-driven solutions 👋
+<h1 align="center">Hi 👋, I'm Mohan Bhujang Gavade</h1>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Autonomous Driving Enthusiast</h3>
 
+---
 
+🔭 I’m currently working on:
 
-## 🔭 I’m currently working on Robotic Vision/Perception Projects
-## 🌱 I’m currently learning Python, PyTorch, TensorFlow, SciKit-Learn, Open-CV, NumPy, MatPlotlib, Pandas, Ros Linux, Image/Video Processing 
-## 👯 I’m looking to collaborate on Machine learning, Mobile Robotics, autonomous driving and Computer Vision Projects
-## 🤔 I’m looking for help with CNN architectures, Transfer Learning, Computer Vision Pipelines
-## 💬 Ask me about Machine Learning, Deep Learning, Sensor Systems, Control theory, Communication Systems
-## 📫 How to reach me: https://www.linkedin.com/in/mohangavade18/
+- Radar-based object detection using deep learning (PointNet, PointTransformer)
+- Scalable data pipelines and dashboards at BMW using Python, SQL, AWS
 
-### Projects
-	
-*Successfully implemented real-time object detection on a mobile robot by Fine Tuning and optimizing algorithms and models using PyTorch, OpenCV, GIT, NVIDIA Jetson nano kit, and Intel RealSense depth camera. (YOLO, Faster-RCNN_ResNet_50_fpn).
+🌱 I’m currently learning:
 
-*A multiclassification project utilizing Tiny VGG and EfficientNet_b0 Convolutional Neural Network architectures for precise identification of food types with the help of Python and PyTorch Framework.
-	
-*Contributed to advancing the image segmentation capabilities of a mobile robotic platform using deep learning U-Net architecture to enhance robotic perception.
-	
-*Developing Object Tracking algorithm through the implementation of YOLOv8 with transfer learning on a Raspberry Pi 4 for robotic navigation.
-	
-*Designed and developed an X-Y Pen Plotter using Esp-32 Spark-Fun microcontroller and Arduino IDE to draw a Nicholas House.
+- MLOps, Docker, MLflow, and CI/CD for deployment
+- Advanced perception (Radar, LiDAR, Vision)
+- Retrieval-Augmented Generation (RAG) and LLMs
 
-### Skills
+👯 I’m looking to collaborate on:
 
-*Programming: Python, Matlab/Simulink, ROS-Linux 
+- Data Science & Machine Learning Projects
+- Robotics, Computer Vision, and Autonomous Systems
+- NLP and Deep Learning for industry applications
 
-*Tools: Git, Git Hub, Google Colab, Jupyter Notebook, Pycharm, VS code, Microsoft Office
+🤔 I’m looking for help with:
 
-*Libraries: PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV
+- Deep learning on radar point clouds
+- Scaling ML pipelines in production
 
-*Languages: English-C1_level, German-B1_level, Hindi, Marathi 
+💬 Ask me about:
 
-*Soft Skills: Teamwork, Analytical thinking, Communication, Adaptability, Problem-Solving
+- Data Engineering (ETL, SQL, AWS)
+- Machine Learning (PyTorch, TensorFlow)
+- Autonomous Driving, ROS2, Sensor Fusion
+- Computer Vision (YOLO, U-Net, ViT)
 
+📫 How to reach me:
 
+- Email: mohangavade110@gmail.com  
+- LinkedIn: [linkedin.com/in/mohangavade18](https://www.linkedin.com/in/mohangavade18)  
+- GitHub: [github.com/MohanGavade](https://github.com/MohanGavade)
+
+⚡ Fun fact:  
+I love working at the intersection of **data**, **intelligent machines**, and **real-world impact**—and I'm always up for a challenge that pushes my skills!
+
+---
+
+### 🛠️ Languages and Tools:
+
+- **Programming:** Python, SQL, C++, MATLAB, ROS2, Linux  
+- **Libraries/Frameworks:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, PySpark  
+- **Data Tools:** AWS (S3, Glue, Athena, QuickSight), MLFlow, Docker, Kubernetes, Tableau  
+- **Others:** Git, GitHub (CI/CD), Jupyter, PyCharm, Google Colab  
+- **Languages:** English (C1), German (B1), Hindi  
+
+---
+
+### 🚀 Projects:
+
+- **Radar Object Initialization (BMW):**  
+  Deep learning for object detection in automotive radar point clouds using PointNet & PointTransformer.
+
+- **Mobile Robot Perception:**  
+  Real-time YOLOv5/Faster-RCNN-based object detection using Jetson Nano, ROS, RealSense, and OpenCV.
+
+- **Vision Transformer for Food Classification:**  
+  Multiclass classification with TinyVGG, EfficientNet_b0, and Vision Transformers using Hugging Face & Gradio.
+
+- **Disaster Tweet Classification (NLP):**  
+  Built a TensorFlow pipeline using LSTM, GRU, Conv1D and Transfer Learning models for tweet classification.
+
+- **Heart Disease Prediction:**  
+  Compared Logistic Regression, KNN, Random Forest using Scikit-Learn with proper feature selection and tuning.
+
+- **X-Y Pen Plotter:**  
+  Designed and built a robotic pen plotter using ESP32, C++, Arduino IDE for creative automation.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanGavade&layout=compact&hide=html" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanGavade&show_icons=true&theme=default" alt="GitHub stats" />
+</p>

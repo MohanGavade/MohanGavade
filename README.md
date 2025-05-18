@@ -14,37 +14,33 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Making+Data-Informed+Decisions+in+Engineering+and+Business" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Making+Data-Informed+Decisions;in+Engineering+and+Business" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
 - 🔭 I’m currently working on:
-  - Radar-based object detection at BMW using PointNet, PointTransformer
-  - Data engineering & visualization with AWS (Glue, Athena, QuickSight)
+  - Data engineering & analysis with AWS services such as (S3, Glue, Athena, QuickSight)
 
 - 🌱 I’m currently learning:
-  - MLOps (Docker, MLFlow, CI/CD)
-  - Sensor Fusion for Autonomous Driving
-  - Retrieval-Augmented Generation (RAG) & LLM APIs
+  - Data Engineering, Data Analytics, Business Analytics
+  - MLOps (Docker, MLFlow, Kubernetes, Jenkins, CI/CD)
+  - LLM and Agentic Ai
 
 - 👯 I’m looking to collaborate on:
   - Machine Learning, Data Science & Analytics Projects
   - Robotics, Computer Vision, Autonomous Systems
-  - Deep Learning for Radar and LiDAR
+  
 
 - 🤔 I’m looking for help with:
-  - Radar point cloud deep learning
-  - Real-time ML pipelines and scaling
+  - End-to-end deployment of scalable ML and data processing pipelines
 
 - 💬 Ask me about:
-  - Data Engineering & Analytics with Python, SQL, AWS
-  - Computer Vision (YOLO, U-Net, ViT)
-  - Sensor Fusion, ROS2, Perception Stacks
-  - NLP for Social Impact
+  - Data Engineering & Analytics
+  - Machine learning 
 
-- ⚡ Fun fact:
-  I built a pen plotter robot that draws buildings 🏛️ using ESP32 and Arduino.
 
 ---
 
@@ -54,7 +50,7 @@
 
 - **Master of Engineering in Mechatronics & Robotics**  
   Schmalkalden University of Applied Sciences, Germany (2022–Present)  
-  *Courses: AI, ML, Computer Vision, Autonomous Driving, Signal Processing, Sensor Systems*
+  *Courses: AI, ML, Data Science, Computer Vision, Autonomous Driving, Signal Processing, Sensor Systems*
 
 - **Erasmus Program - LAB University of Applied Sciences, Finland**  
   Simulated truck tail lift system using MATLAB/Simulink.
@@ -68,7 +64,7 @@
 
 - **BMW – Working Student (Apr 2025–Present)**  
   ▪ Designed dashboards using AWS QuickSight & SQL  
-  ▪ Built scalable pipelines using Python, Glue, Athena  
+  ▪ Built scalable data pipelines using Python, Glue, and Athena  
   ▪ Delivered strategic insights from raw data
 
 - **BMW – Master Thesis (Oct 2024–Mar 2025)**  
@@ -82,7 +78,7 @@
   ▪ Implemented radome defect classification
 
 - **Perfect System – Automation Engineer (2020–2022)**  
-  ▪ Developed PLC-based automation systems  
+  ▪ Developed PLC and python based automation systems  
   ▪ Integrated computer vision and sensors
 
 - **Nilkamal Controls – Research Intern (2018)**  
@@ -93,14 +89,45 @@
 
 ## 🚀 Projects
 
-- **Radar Object Detection @ BMW** – PointNet, PointTransformer
-- **Robot Perception** – YOLO, ROS, Jetson Nano
-- **Food Image Classifier** – Vision Transformer, Gradio
-- **NLP Disaster Classifier** – LSTM/GRU/Conv1D
-- **Heart Disease Prediction** – Logistic, KNN, RF
-- **X-Y Pen Plotter** – ESP32 + Arduino IDE
+### 🤖 Mobile Robot Real-Time Object Detection
+Successfully implemented real-time object detection on a mobile robot by fine-tuning and optimizing deep learning models (YOLO, Faster-RCNN_ResNet_50_FPN).
+
+- **Software & Libraries:** Python, PyTorch, C++, OpenCV, ROS, GitHub, MATLAB & Simulink, SolidWorks  
+- **Components & Sensors:** NVIDIA Jetson Nano, PID/MPC Controller, Sonar Sensor, LiDAR, IMU, GNSS, Intel RealSense depth camera
 
 ---
+
+### 🍱 Food Image Classification using ViT & CNNs
+Built a feature extractor and multiclass classification model using Vision Transformer, TinyVGG, and EfficientNet_b0 architectures to classify food types accurately.
+
+- **Tools & Frameworks:** Python, PyTorch, Hugging Face, Gradio
+
+---
+
+### 🧠 Image Segmentation & Pattern Recognition for Robotics
+Enhanced robotic perception using transfer learning with U-Net, YOLO, and Segment Anything architecture for improved image segmentation and pattern recognition.
+
+---
+
+### 🖊️ X-Y Pen Plotter Robot
+Designed and developed an X-Y pen plotter using ESP32 microcontroller and Arduino IDE. The bot draws architectural shapes like the Nicholas House using precise stepper control.
+
+- **Languages & Tools:** C++, Arduino IDE, Embedded Systems
+
+---
+
+### 📉 Disaster Tweet Classification with NLP
+Developed a TensorFlow pipeline to classify disaster-related tweets. Compared models including Naive Bayes, Dense, LSTM, GRU, Conv1D, and Transfer Learning techniques for optimal performance.
+
+---
+
+### ❤️ Heart Disease Prediction (ML)
+Built and evaluated a machine learning pipeline using Scikit-Learn. Tested Logistic Regression, K-Nearest Neighbors, and Random Forest Classifier to determine the most accurate predictive model.
+
+
+---
+
+
 
 ## 🛠️ Technical Skills
 

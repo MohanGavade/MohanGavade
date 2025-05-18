@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="AI Futuristic Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohan Bhujang Gavade</h1>
 <h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Autonomous Driving Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Turning+Data+into+Actionable+Insights+📊;Solving+Problems+with+Machine+Learning+%F0%9F%9A%80;Engineering+Smart+Robots+and+Cars+%F0%9F%9A%97+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Turning+Data+into+Actionable+Insights+📊;Solving+Problems+with+Machine+Learning+🚀;Engineering+Smart+Robots+and+Cars+🚗🤖" alt="Typing SVG" />
 </p>
 
 ---
@@ -96,13 +100,4 @@
 ### 🖊️ X-Y Pen Plotter Bot
 > Created a mechanical drawing bot using ESP32, C++, Arduino IDE to automate pen drawing.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanGavade&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanGavade&layout=compact&hide=html" alt="Top languages" />
-</p>

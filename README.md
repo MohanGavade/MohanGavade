@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohan Bhujang Gavade</h1>
-<h3 align="center">🚀 Data Scientist | Artificial Intelligence Engineer | Autonomous Driving Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | Artificial Intelligence Engineer | Data Analyst | Autonomous Driving Enthusiast</h3>
 
 ---
+
 
 ### 📫 How to reach me:
 
@@ -10,6 +11,11 @@
   <a href="https://www.linkedin.com/in/mohangavade18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MohanGavade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center">
+  📞 <strong>+49 163 519 6956</strong>
+</p>
+
 
 ---
 

@@ -95,40 +95,33 @@
 
 ## 🚀 Projects
 
-### 🤖 Mobile Robot Real-Time Object Detection
-Successfully implemented real-time object detection on a mobile robot by fine-tuning and optimizing deep learning models (YOLO, Faster-RCNN_ResNet_50_FPN).
-
-- **Software & Libraries:** Python, PyTorch, C++, OpenCV, ROS, GitHub, MATLAB & Simulink, SolidWorks  
-- **Components & Sensors:** NVIDIA Jetson Nano, PID/MPC Controller, Sonar Sensor, LiDAR, IMU, GNSS, Intel RealSense depth camera
-
----
-
-### 🍱 Food Image Classification using ViT & CNNs
-Built a feature extractor and multiclass classification model using Vision Transformer, TinyVGG, and EfficientNet_b0 architectures to classify food types accurately.
-
-- **Tools & Frameworks:** Python, PyTorch, Hugging Face, Gradio
+### 🤖 Perception Enhancement for Mobile Robotics Using Deep Learning  
+Implemented and fine-tuned U-Net for image segmentation and YOLO for real-time object detection to improve the perception capabilities of a mobile robotic platform.  
+**Software & Tools:** Python, PyTorch, C++, OpenCV, ROS, MATLAB, Simulink, GitHub  
+**Hardware & Components:** NVIDIA Jetson Nano, Intel RealSense Depth Camera, Sonar Sensor, LiDAR, IMU, GNSS, PID/MPC Controllers
 
 ---
 
-### 🧠 Image Segmentation & Pattern Recognition for Robotics
-Enhanced robotic perception using transfer learning with U-Net, YOLO, and Segment Anything architecture for improved image segmentation and pattern recognition.
+### 🍱 Multiclass Food Image Classification  
+Developed and deployed a food classification pipeline using Vision Transformer (ViT) for precise identification of food types. Integrated PyTorch, Hugging Face, and Gradio for training, model management, and interactive web-based inference.  
+**Accuracy:** 98%
 
 ---
 
-### 🖊️ X-Y Pen Plotter Robot
-Designed and developed an X-Y pen plotter using ESP32 microcontroller and Arduino IDE. The bot draws architectural shapes like the Nicholas House.
-
-- **Languages & Tools:** C++, Arduino IDE, Embedded Systems
-
----
-
-### 📉 Disaster Tweet Classification with NLP
-Developed a TensorFlow pipeline to classify disaster-related tweets. Compared models including Naive Bayes, Dense, LSTM, GRU, Conv1D, and Transfer Learning techniques for optimal performance.
+### 📉 Disaster Tweet Classification Using Traditional and Deep NLP Models  
+Developed a TensorFlow-based NLP pipeline to classify disaster-related tweets by implementing and comparing models including Naive Bayes, Dense Neural Networks, LSTM, GRU, Conv1D, and Transfer Learning approaches to identify the optimal model for performance and accuracy.  
+**Accuracy:** 77%
 
 ---
 
-### ❤️ Heart Disease Prediction (ML)
-Built and evaluated a machine learning pipeline using Scikit-Learn. Tested Logistic Regression, K-Nearest Neighbors, and Random Forest Classifier to determine the most accurate predictive model.
+### ❤️ Heart Disease Prediction Using Supervised Learning Algorithms  
+Built a Scikit-learn-based predictive model for heart disease classification by evaluating Logistic Regression, K-Nearest Neighbours, and Random Forest classifiers to identify the most effective algorithm based on performance metrics.  
+**Accuracy:** 79%
+
+---
+
+### 🖊️ X-Y Pen Plotter for Automated Drawing  
+Designed and developed an X-Y axis pen plotter using C++, Arduino IDE, and embedded systems to autonomously draw complex Nicholas House.
 
 
 ---

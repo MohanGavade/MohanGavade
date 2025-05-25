@@ -102,6 +102,14 @@ Implemented and fine-tuned U-Net for image segmentation and YOLO for real-time o
 
 ---
 
+### 📈 Time Series Forecasting Using Deep Learning  
+Explored time series forecasting techniques on real-world sequential data (e.g., Bitcoin prices) using various neural network architectures. Implemented data windowing for supervised learning, evaluated univariate and multivariate models, and compared Dense, LSTM, 1D CNN, and N-BEATS architectures. Included model checkpointing, prediction interval estimation, and uncertainty analysis (data vs. model uncertainty).  
+**Software & Tools:** Python, TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn  
+**Techniques:** Windowing, Sequence Modelling, Model Ensembling, Forecast Evaluation, Prediction Intervals  
+**Key Highlights:** Achieved robust forecasting performance with N-BEATS and ensemble models. Illustrated the limitations of prediction in open systems (turkey problem).
+
+---
+
 ### 🍱 Multiclass Food Image Classification  
 Developed and deployed a food classification pipeline using Vision Transformer (ViT) for precise identification of food types. Integrated PyTorch, Hugging Face, and Gradio for training, model management, and interactive web-based inference.  
 **Accuracy:** 98%
